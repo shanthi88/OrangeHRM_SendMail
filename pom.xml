@@ -57,7 +57,8 @@
  <mailpassword>s1n2t3*biradar</mailpassword>
   <receivers>
  <!-- To Email address -->
- <receiver>yosanshray@gmail.com</receiver>
+ <!-- <receiver>yosanshray@gmail.com</receiver> -->
+ <receiver>shanthidurga88@gmail.com</receiver>
  </receivers>
   <fileSets>
  <fileSet>
