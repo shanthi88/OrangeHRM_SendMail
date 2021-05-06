@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="509351" started-at="2021-05-05T04:53:21Z" finished-at="2021-05-05T05:01:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="509351" started-at="2021-05-05T04:53:21Z" finished-at="2021-05-05T05:01:50Z">
+      <class name="pkg_orange_HRM.Hdfc_Login_masking">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:pkg_orange_HRM.Hdfc_Login_masking@11531931]" name="launchBrowser" is-config="true" duration-ms="360250" started-at="2021-05-05T10:23:21Z" finished-at="2021-05-05T10:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:pkg_orange_HRM.OrangeHRM_Login_Before_and_After@4563e9ab]" name="launchBrowser" is-config="true" duration-ms="2273" started-at="2021-05-05T10:29:21Z" finished-at="2021-05-05T10:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login_Successful()[pri:0, instance:pkg_orange_HRM.Hdfc_Login_masking@11531931]" name="login_Successful" duration-ms="27092" started-at="2021-05-05T10:29:24Z" finished-at="2021-05-05T10:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Successful -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:pkg_orange_HRM.Hdfc_Login_masking@11531931]" name="closeBrowser" is-config="true" duration-ms="679" started-at="2021-05-05T10:31:49Z" finished-at="2021-05-05T10:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:pkg_orange_HRM.OrangeHRM_Login_Before_and_After@4563e9ab]" name="closeBrowser" is-config="true" duration-ms="720" started-at="2021-05-05T10:31:50Z" finished-at="2021-05-05T10:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pkg_orange_HRM.Hdfc_Login_masking -->
+      <class name="pkg_orange_HRM.OrangeHRM_Login_Before_and_After">
+        <test-method status="PASS" signature="login_Successful()[pri:0, instance:pkg_orange_HRM.OrangeHRM_Login_Before_and_After@4563e9ab]" name="login_Successful" duration-ms="145391" started-at="2021-05-05T10:29:24Z" finished-at="2021-05-05T10:31:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Successful -->
+      </class> <!-- pkg_orange_HRM.OrangeHRM_Login_Before_and_After -->
+    </test> <!-- Test -->
+  </suite> <!-- TestSuite -->
+</testng-results>

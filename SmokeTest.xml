@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite" thread-count="4" parallel="Classes">
+	<test name="Test">
+		<classes>
+			<!-- <class name="com.OrangeHRM.SmokeTest" />
+			<class name="com.OrangeHRM.Drag_and_Drop" />
+			 --><class name="pkg_orange_HRM.OrangeHRM_Login_Before_and_After" />
+			<!-- <class name="pkg_orange_HRM.Hdfc_Login_masking" /> -->
+			<!--<class name="pk_Orange_HRM.Delete_User_From_SearchList"/> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

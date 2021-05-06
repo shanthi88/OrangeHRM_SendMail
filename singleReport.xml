@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="classes" thread-count="3">
+<listeners>
+	<listener class-name="extentReport.Listeners"/>
+</listeners>
+	<test name="Test">
+		<classes>
+		<class name="singleExtentReport.Double_click_example" />
+			<class name="singleExtentReport.DragAndDrop" />
+			<class name="singleExtentReport.OrangeHRM_Login_TestNG" />
+			<class name="singleExtentReport.NavigateToAllLinks" />
+			
+			<!-- <class name="src\test\java\singleExtentReport\Double_click_example." />
+			<class name="\src\test\java\singleExtentReport\DragAndDrop" />
+			<class name="singleExtentReport.NavigateToAllLinks" /> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
